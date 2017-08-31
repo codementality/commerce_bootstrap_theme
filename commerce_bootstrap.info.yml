@@ -18,3 +18,9 @@ regions:
   footer: 'Footer'
   page_top: 'Page top'
   page_bottom: 'Page bottom'
+
+libraries-override:
+  commerce_checkout/form:
+    css:
+      theme:
+        css/commerce_checkout.form.css: false
