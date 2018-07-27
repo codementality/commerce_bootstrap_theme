@@ -24,3 +24,7 @@ libraries-override:
     css:
       theme:
         css/commerce_checkout.form.css: false
+
+libraries-extend:
+  commerce_authnet/form-authnet:
+    - commerce_bootstrap/commerce_authnet_extend
