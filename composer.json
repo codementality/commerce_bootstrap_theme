@@ -1,7 +1,7 @@
 {
-    "name": "drupal/commerce_bootstrap",
+    "name": "codementality/commerce_bootstrap",
     "description": "Bootstrap base theme for Drupal Commerce.",
-    "type": "drupal-theme",
+    "type": "drupal-custom-theme",
     "license": "GPL-2.0",
     "homepage": "http://drupal.org/project/commerce_bootstrap",
     "require": {
